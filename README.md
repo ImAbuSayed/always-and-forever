@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/always-and-forever/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Always And Forever](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/always-and-forever/) |
+| **Get License** | [Commercial Licensing for Always And Forever](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/always-and-forever/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I trace the shadows falling on your skin
+> You pull me closer and the night begins
+> There is no place that I would rather be
+> A silent spark between just you and me
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
