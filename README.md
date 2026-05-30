@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/always-and-forever/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Always And Forever](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/always-and-forever/) |
+| **Get License** | [Get License For Always And Forever](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/always-and-forever/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `15a83a6be6c92119c83ee17b1152d272d3728626b343a6a9c6ed6f7b388466ad` |
 | **Timestamp** | May 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
